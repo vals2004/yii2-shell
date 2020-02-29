@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-shell",
+    "name": "vals2004/yii2-shell",
     "description": "The interactive shell extension for Yii framework",
     "keywords": [
         "yii2",
@@ -26,8 +26,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "psy/psysh": "~0.9.3",
-        "symfony/var-dumper": "~2.7|~3.0|~4.0"
+        "psy/psysh": "~0.9.3"
     },
     "autoload": {
         "psr-4": {
